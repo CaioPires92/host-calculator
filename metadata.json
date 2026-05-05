@@ -1,0 +1,6 @@
+{
+  "name": "Booking Host Calc",
+  "description": "Calculadora de preço bruto para anfitriões da Booking.com, considerando comissões e descontos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
